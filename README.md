@@ -27,15 +27,15 @@ Portfólio profissional voltado à Tecnologia da Informação, reunindo atuaçã
 
 ### Página inicial
 
-![Página inicial do portfólio](docs/home.png)
+![Página inicial do portfólio](docs/home.jpg)
 
 ### Projetos e trabalhos
 
-![Página de projetos do portfólio](docs/projetos.png)
+![Página de projetos do portfólio](docs/projetos.jpg)
 
 ### Trabalho técnico
 
-![Comparativo de manutenção no portfólio](docs/trabalhos.png)
+![Comparativo de manutenção no portfólio](docs/trabalhos.jpg)
 
 ## Sobre o código
 
